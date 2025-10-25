@@ -15,7 +15,7 @@
 | Tutorial | Módulo de Aprendizaje | Descripción Técnica | Enlace de Evidencia |
 |-------|------------------------|---------------------|-----------------------------------------|
 | Tutorial 2 | **Jugabilidad Básica** | Maniobra al jugador para mantener vivo el juego | [https://drive.google.com/drive/folders/1thp2VxpACHfje6VvAYYPsi_gysmcbuOy?usp=sharing](https://drive.google.com/drive/folders/19ElKvVg1VqWHIJb3SIotmuy6zMcazcLM?usp=sharing) |
-| Tutorial 3 | **Sistema de Audio** | Efectos de sonido, música ambiental, audio mixers | [https://drive.google.com/drive/folders/15--BoF-J6hoXeNM7oxdPg21k2zoReg6c?usp=sharing] |
+| Tutorial 3 | **Sistema de Audio** | Efectos de sonido, música ambiental, audio mixers | https://drive.google.com/drive/folders/15--BoF-J6hoXeNM7oxdPg21k2zoReg6c?usp=sharing |
 | Tutorial 4 | **Interfaz de Usuario** | Canvas, menús de juego, HUD, sistema de vidas | |
 ---
 ---
